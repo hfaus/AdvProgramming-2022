@@ -1,10 +1,3 @@
-// Software developer process
-Methods {
-    waterfall model;
-    spiral model;
-    RUDE; // run, understand, debug, edit
-}
-
 Why study PL concepts?
     1.Increased capacity to express ideas {
         Use comments, programmer discipline, recursive algs, initialize variables, member functions;
